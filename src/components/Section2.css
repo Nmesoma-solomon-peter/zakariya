@@ -20,7 +20,7 @@
 }
 
 .sec2img{
-    width: 100%;
+    width: 600px;
     height: 83%;
     object-fit: contain;
     margin-left: 60px;
@@ -31,4 +31,13 @@
 }
 .secrow{
     margin-top: 100px;
+}
+@media (max-width:1028px) {
+    
+    .sec2img{
+        display: block;
+        margin:30px 8px 5px 2px;
+        width: 300px;
+
+    }
 }

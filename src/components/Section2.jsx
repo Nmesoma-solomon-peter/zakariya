@@ -24,7 +24,7 @@ function Section2() {
                     </div>
                     <div className='d-flex secflex'>
                         <p>Deliverables</p>
-                        <p>UI Design</p>
+                        <p>UI Design, UX Design</p>
                     </div>
                 </div>
                 <div className='col col-md-6'>

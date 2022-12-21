@@ -11,3 +11,14 @@
 .img{
     margin-left: 160px;
 }
+
+@media (max-width:1028px) {
+    .header_p{
+        width:300px;
+    }
+    .img{
+        margin-left: 10px;
+        margin-bottom: 15px;
+        margin-top: -35px;
+    }
+}
