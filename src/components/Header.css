@@ -17,3 +17,11 @@
     padding-top: -5px;
     margin: 1;
 }
+
+@media (max-width:1028px) {
+    .linkborder{
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    
+}
