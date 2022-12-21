@@ -24,7 +24,7 @@ function Header() {
                             </li>
                             
                             <li className="nav-item">
-                                <a className="nav-link active linkborder" href="https://www.linkedin.com/in/zakariya-buhari-929076154/">Dribble</a>
+                                <a className="nav-link active linkborder" href="https://dribbble.com/saka04">Dribble</a>
                             </li>
                         </ul>
                     </div>

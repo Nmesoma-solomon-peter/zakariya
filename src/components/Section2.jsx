@@ -69,7 +69,7 @@ function Section2() {
                         <p>Role</p>
                         <p>UI/UX Designer</p>
                     </div>
-                    <div className='d-flex secflex'>
+                    <div className='d-flex secflex '>
                         <p>Visit Website</p>
                         <p><a href='https://t.co/s7BKuVWFGQ'>https://t.co/s7BKuVWFGQ</a></p>
                     </div>
