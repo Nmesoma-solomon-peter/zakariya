@@ -1,8 +1,8 @@
 import React from 'react'
 import './Section2.css'
-import sec2img from '../assets/sec2img.png'
-import sec3img from '../assets/sec3img.png'
-import sec4img from '../assets/sec4img.png'
+// import sec2img from '../assets/sec2img.png'
+// import sec3img from '../assets/sec3img.png'
+// import sec4img from '../assets/sec4img.png'
 
 function Section2() {
     return (
@@ -28,7 +28,7 @@ function Section2() {
                     </div>
                 </div>
                 <div className='col col-md-6'>
-                    <img src={sec2img} alt='sec2img' className='sec2img' />
+                    <img src='/sec2img.png' alt='sec2img' className='sec2img' />
                 </div>
             </div>
 
@@ -54,7 +54,7 @@ function Section2() {
                     </div>
                 </div>
                 <div className='col col-md-6'>
-                    <img src={sec3img} alt='sec3img' className='sec2img' />
+                    <img src='/sec3img.png' alt='sec3img' className='sec2img' />
                 </div>
             </div>
             {/* section3 */}
@@ -79,7 +79,7 @@ function Section2() {
                     </div>
                 </div>
                 <div className='col col-md-6'>
-                    <img src={sec4img} alt='sec4img' className='sec2img' />
+                    <img src='/sec4img.png' alt='sec4img' className='sec2img' />
                 </div>
             </div>
         </div>
