@@ -11,7 +11,7 @@ function Section1() {
                     <h2 className='mb-3 mt-5'>Hi, i’m Zakariya Buhari a UI/UX Designer.</h2>
                     <p className='header_p'>I am a passionate UI/UX Designer who likes to solve problems and design solutions which create impact on lives of users. An iterator, design thinker and learner with experience in designing mobile apps and web designs.</p>
                 </div>
-                <div className='col col-md-4 text-align-right'>
+                <div className='col col-md-4 text-align-right imgclass'>
                     <img src={zakariyapix} alt='profile pix' className='img'/>
                 </div>
             </div>

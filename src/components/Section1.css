@@ -18,8 +18,15 @@
     }
     .img{
         margin-left: 10%;
-        margin: auto;
-        margin-bottom:50px;
+        /* margin: auto; */
+        margin-bottom:20%;
         margin-top: -40px;
     }
+    /* .imgclass{
+        justify-content: center;
+        display: flex;
+        text-align: center;
+        align-items: center;
+        margin: auto;
+    } */
 }
