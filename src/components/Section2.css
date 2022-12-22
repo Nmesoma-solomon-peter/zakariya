@@ -36,7 +36,8 @@
     
     .sec2img{
         display: block;
-        margin:30px 8px 5px -4px;
+        margin:auto;
+        margin-top: 10%;
         width: 300px;
 
     }
