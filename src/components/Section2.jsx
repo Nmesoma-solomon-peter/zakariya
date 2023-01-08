@@ -120,7 +120,7 @@ function Section2() {
                     variants={row1left}
                     initial="hidden"
                     whileInView="visible"
-                    // viewport={{ once: true }}
+                    viewport={{ once: true }}
                 >
                     <h3 className='fw-bold sech3 mb-3'>DesignBlocs </h3>
                     <p className='mb-5'>Design Blocs is a design language created to see to the needs of Product designers looking to design user centric products. </p>
@@ -144,7 +144,7 @@ function Section2() {
                     variants={row1right}
                     initial="hidden"
                     whileInView="visible"
-                    // viewport={{ once: true }}
+                    viewport={{ once: true }}
                 >
                     <img src='/sec2img.png' alt='sec2img' className='sec2img' />
                 </motion.div>
@@ -156,7 +156,7 @@ function Section2() {
                     variants={row2left}
                     initial="hidden"
                     whileInView="visible"
-                    // viewport={{ once: true }}
+                    viewport={{ once: true }}
                     // animate={animation}
                 >
                     <h3 className='fw-bold sech3 mb-3'>Kwikinvoice</h3>
@@ -181,7 +181,7 @@ function Section2() {
                     variants={row2right}
                     initial="hidden"
                     whileInView="visible"
-                    // viewport={{ once: true }}
+                    viewport={{ once: true }}
                     // animate={animation}
                 >
                     <img src='/sec3img.png' alt='sec3img' className='sec2img' />
@@ -193,7 +193,7 @@ function Section2() {
                     variants={row3left}
                     initial="hidden"
                     whileInView="visible"
-                    // viewport={{ once: true }}
+                    viewport={{ once: true }}
                 >
                     <h3 className='fw-bold sech3 mb-3'>ClientDorm</h3>
                     <p className='mb-5'>A free CRM app built around your business just how you want it. It is totally free to use CRM app built to accommodate your business needs and tailored down to how you would want it to be. </p>
