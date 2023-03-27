@@ -7,19 +7,29 @@
     position: sticky;
     z-index: 3;
 }
-.navbar-brand{
-    color: #CEDBFD;
+/* .navbar-nav{
+    margin-left: 5em;
+} */
+.logo{
+    margin-left: -3em;
 }
 .headericon{
     text-align: center;
+    margin-right: 1em;
     /* width:120px; */
     /* padding-left: -5px;
     padding-right: 1px; */
 }
-.behance{
+/* .behance{
     margin-right: -40px;
     align-items: center;
     
+} */
+.readCase{
+    margin-right: 1em;
+}
+.horizontalLine{
+    border-right: 2px solid #7097ed;
 }
 .linkborder{ 
     /* border: 1px solid #CEDBFD ; */
