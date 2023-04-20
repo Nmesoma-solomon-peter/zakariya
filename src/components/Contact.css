@@ -1,0 +1,30 @@
+/* .textarea{
+    width: 100%;
+    height: 3} */
+
+.contact2col {
+  margin: 25% 30%;
+}
+/* .submitbtn:hover {
+  color: #fff;
+} */
+
+@media (max-width: 576px) {
+    .submitbtn{
+        margin-left: 25px;
+        /* align-self: center; */
+    }
+  .contact2col {
+    margin: 20px 80px;
+  }
+  .clog{
+    display: none;
+  }
+  .contactme{
+    font-size: 20px;
+    width: 200px;
+    margin-left: -10px;
+  }
+}
+
+

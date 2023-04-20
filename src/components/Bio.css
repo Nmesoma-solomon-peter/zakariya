@@ -1,0 +1,8 @@
+.bio__inner {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #212428;
+}
+.eduskillp {
+  font-size: 15px;
+}

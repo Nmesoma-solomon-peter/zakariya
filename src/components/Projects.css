@@ -1,0 +1,129 @@
+/* .kardrow{
+    justify-content: space-between;
+} */
+.procontainer-fluid{
+    padding: 1% 10% 7%;
+    /* background-color:#212428 ; */
+    background-color:#212428;
+}
+.projectintro{
+    color:#D07C4C;
+    font-size: 1.5em;
+}
+.projecth3{
+    color: #fff;
+    font-size: 2rem;
+    font-weight: 900;
+}
+.kardinner{
+    justify-content: center;
+    text-align: center;
+    margin: 3%; 
+    background-color:#212428 ;
+    padding: 5% 10%;
+    border-radius: 10px;
+    /* box-shadow: 5px 10px 18px #22262a ; */
+    box-shadow: 4px 10px 15px 10px #25292D ;
+    /* z-index: -5; */
+}
+/* .kard{ */
+    /* background-color:#fff ;
+    height: 200px; */
+    /* justify-content: center; */
+    /* margin-right:2px ; */
+    /* width: 200px; */
+/* } */
+.kardimg{
+    width: 200px;
+    margin-top:10%;
+}
+.role{
+    display: block;
+    margin-top: 2em;
+}
+
+.proh4{
+    text-align: left;
+}
+.csimage{
+    height: 5em;
+}
+.case{
+    display:flex;
+    font-size: 1.3em;
+}
+.cs{
+    border-right:1px solid #D07C4C;
+    margin-right: 1em;
+}
+.inline{
+    display: inline;
+}
+
+/* This only changes this particular animation duration */
+/* .animate__animated.animate__bounce {
+    --animate-duration: 2s;
+  } */
+
+  /* This changes all the animations globally */
+/* :root {
+    --animate-duration: 70s;
+    --animate-delay: 0.9s;
+  } */
+
+  /* @media (max-width:576px) {
+    .kardimg{
+        width:200px ;
+    }
+    .project__btn{
+        margin-left: 20px;
+        font-size: 30px;
+    }
+    .procontainer-fluid{
+        padding: 1% 6% 7%;
+        background-color:#212428 ; cc
+        background-color:#212428;
+    }
+    .projectintro{
+        color:#D07C4C;
+        font-size: 20px;
+    }
+    .kardinner{
+        justify-content: center;
+        margin: 1px; 
+        margin-bottom: 30px;
+        background-color:yellow ; cc
+        background-color:#22262A ; cc
+        background-color:#212428 ;
+        padding: 15px 2px;
+        border-radius: 10px;
+        box-shadow: 5px 10px 18px #22262a ; cc
+        box-shadow: 4px 10px 15px 10px #25292D ;
+        z-index: -5;
+    }
+    .kardimg{
+        width: 270px;
+        margin-top: 20px; cc
+    }
+    .proh4{
+        padding-left: 20px;
+    }
+  } */
+
+  @media (max-width:770px) {
+    .inline{
+        display:block
+    }
+    .cs{
+        display: none;
+    }
+  }
+
+  @media (max-width:576px) {
+    .inline{
+        display:block
+    }
+    .cs{
+        display: none;
+    }
+  }

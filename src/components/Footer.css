@@ -1,0 +1,16 @@
+.footer{
+    padding: 1% 10%;
+    background-color: #212428;
+    display: flex;
+    justify-content: space-between;
+
+}
+.footer__icon{
+    display: flex;
+}
+.footerlogo{
+    width: 20px;
+}
+.copyright{
+    font-size: 15px;
+}

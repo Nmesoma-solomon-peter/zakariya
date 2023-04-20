@@ -1,0 +1,23 @@
+.skilbox{
+    padding: 5%;
+}
+.skil{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.progress-bar{
+    background-color: #D07C4C;
+}
+.progress{
+    width: 30em;
+}
+@media (max-width:576px) {
+    .skh5{
+        font-size: 10px;
+    }
+    .progress{
+        width: 10em
+    }
+   
+}
